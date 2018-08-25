@@ -176,67 +176,6 @@
 
 *   [TensorFlow-based](https://github.com/LouieYang/stroke-controllable-fast-style-transfer)
 
-:sparkle: **Code:**
-
-*   [Torch-based](https://github.com/xiumingzhang/depth-preserving-neural-style-transfer)
-
-:white_check_mark: [**Depth-Aware Neural Style Transfer**] [[Paper]](https://dl.acm.org/citation.cfm?id=3092924)  *(NPAR 2017)*
-
-:white_check_mark: [**Neural Style Transfer: A Paradigm Shift for Image-based Artistic Rendering?**] [[Paper]](https://tobias.isenberg.cc/personal/papers/Semmo_2017_NST.pdf)  *(NPAR 2017)*
-
-:white_check_mark: [**Pictory: Combining Neural Style Transfer and Image Filtering**] [[Paper]](https://www.researchgate.net/publication/320035123_Demo_Pictory_-_Neural_Style_Transfer_and_Editing_with_CoreML)  *(ACM SIGGRAPH 2017 Appy Hour)*
-
-:white_check_mark: [**Painting Style Transfer for Head Portraits Using Convolutional Neural Networks**] [[Paper]](http://dl.acm.org/citation.cfm?id=2925968)  *(SIGGRAPH 2016)*
-
-:white_check_mark: [**Son of Zorn's Lemma Targeted Style Transfer Using Instance-aware Semantic Segmentation**] [[Paper]](https://arxiv.org/pdf/1701.02357.pdf)  *(ICASSP 2017)*
-
-:white_check_mark: [**Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN**] [[Paper]](https://arxiv.org/pdf/1706.03319.pdf)  *(ACPR 2017)*
-
-:white_check_mark: [**Artistic Style Transfer for Videos**] [[Paper]](https://arxiv.org/pdf/1604.08610.pdf)  *(GCPR 2016)*
-
-:sparkle: **Code:**
-
-*   [Torch-based](https://github.com/manuelruder/artistic-videos)
-
-:white_check_mark: [**Characterizing and Improving Stability in Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1705.02092.pdf))  *(ICCV 2017)*
-
-:white_check_mark: [**Coherent Online Video Style Transfer**] [[Paper]](https://arxiv.org/pdf/1703.09211.pdf)  *(ICCV 2017)*  
-
-:white_check_mark: [**Real-Time Neural Style Transfer for Videos**] [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Real-Time_Neural_Style_CVPR_2017_paper.pdf)  *(CVPR 2017)* 
-
-:white_check_mark: [**A Common Framework for Interactive Texture Transfer**] [[Paper]](http://www.icst.pku.edu.cn/F/zLian/papers/CVPR18-Men.pdf)  *(CVPR 2018)*
-
-:white_check_mark: [**Deep Photo Style Transfer**] [[Paper]](https://arxiv.org/pdf/1703.07511.pdf)  *(CVPR 2017)*
-
-
-:sparkle: **Code:**
-
-*   [Torch-based](https://github.com/luanfujun/deep-photo-styletransfer)
-*   [TensorFlow-based](https://github.com/LouieYang/deep-photo-styletransfer-tf)
-
-:white_check_mark: [**A Closed-form Solution to Photorealistic Image Stylization**] [[Paper]](https://arxiv.org/pdf/1802.06474.pdf)  *(ECCV 2018)* 
-
-:sparkle: **Code:**
-
-*   [PyTorch-based](https://github.com/NVIDIA/FastPhotoStyle)
-
-
-:white_check_mark: [**Decoder Network Over Lightweight Reconstructed Feature for Fast Semantic Style Transfer**] [[Paper]](http://feng-xu.com/papers/iccv2017_style.pdf)  *(ICCV 2017)* 
-
-:white_check_mark: [**Stereoscopic Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1802.10591.pdf)  *(CVPR 2018)* 
-
-
-
-<!--:white_check_mark: **Character Style Transfer**-->
-
-:white_check_mark:   [**Awesome Typography: Statistics-based Text Effects Transfer**] [[Paper]](https://arxiv.org/abs/1611.09026)  *(CVPR 2017)*
-
-:sparkle: **Code:**
-
-*   [Matlab-based](https://github.com/williamyang1991/Text-Effects-Transfer)
-
-:white_check_mark:   [**Neural Font Style Transfer**] [[Paper]](http://ieeexplore.ieee.org/document/8270274/)  *(ICDAR 2017)* 
-
 :white_check_mark:   [**Separating Style and Content for Generalized Style Transfer**] [[Paper]](https://arxiv.org/pdf/1711.06454.pdf)  *(CVPR 2018)*  
 
 :white_check_mark: [**Visual Attribute Transfer through Deep Image Analogy**] [[Paper]](https://arxiv.org/pdf/1705.01088.pdf)  *(SIGGRAPH 2017)*
@@ -245,10 +184,6 @@
 
 *   [Caffe-based](https://github.com/msracver/Deep-Image-Analogy)
 
-:white_check_mark: [**Fashion Style Generator**] [[Paper]](https://www.ijcai.org/proceedings/2017/0520.pdf)  *(IJCAI 2017)*
-
 *   [Torch-based](https://github.com/luanfujun/deep-painterly-harmonization)
-
-:white_check_mark: [**Fast Face-Swap Using Convolutional Neural Networks**] [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Korshunova_Fast_Face-Swap_Using_ICCV_2017_paper.pdf)  *(ICCV 2017)*
 
 :white_check_mark: [**Learning Selfie-Friendly Abstraction from Artistic Style Images**] [[Paper]]()  *(ACML 2018)*
