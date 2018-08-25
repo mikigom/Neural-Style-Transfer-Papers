@@ -5,18 +5,6 @@
 
 ###  1.1. Parametric "Slow" Neural Methods with Summary Statistics
 
-:white_check_mark: [**A Neural Algorithm of Artistic Style**] [[Paper]](https://arxiv.org/pdf/1508.06576.pdf) *(First Neural Style Transfer Paper)*
-
-:sparkle: **Code:**
-
-*   [Torch-based](https://github.com/jcjohnson/neural-style)
-*   [TensorFlow-based](https://github.com/anishathalye/neural-style)
-*   [TensorFlow-based with L-BFGS optimizer support](https://github.com/cysmith/neural-style-tf)
-*   [Caffe-based](https://github.com/fzliu/style-transfer) 
-*   [Keras-based](https://github.com/titu1994/Neural-Style-Transfer)
-*   [MXNet-based](https://github.com/pavelgonchar/neural-art-mini)
-*   [MatConvNet-based](https://github.com/aravindhm/neural-style-matconvnet)
-
 :white_check_mark: [**Image Style Transfer Using Convolutional Neural Networks**] [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) *(CVPR 2016)*
 
 :white_check_mark: [**Incorporating Long-range Consistency in CNN-based Texture Generation**] [[Paper]](https://arxiv.org/pdf/1606.01286.pdf)  *(ICLR 2017)* 
@@ -93,8 +81,6 @@
 
 *   [TensorFlow-based](https://github.com/tensorflow/magenta/tree/master/magenta/models/image_stylization)
 
-:white_check_mark: [**Multi-style Generative Network for Real-time Transfer**] [[Paper]](https://arxiv.org/pdf/1703.06953.pdf)  ***（arXiv, 03/2017）***
-
 :sparkle: **Code:**
 
 *   [PyTorch-based](https://github.com/zhanghang1989/PyTorch-Style-Transfer)
@@ -112,7 +98,7 @@
 
 ### 2.3. Arbitrary-Style-Per-Model "Fast" Neural Methods
 
-:white_check_mark: [**Fast Patch-based Style Transfer of Arbitrary Style**] [[Paper]](https://arxiv.org/pdf/1612.04337.pdf) 
+:white_check_mark: [**Fast Patch-based Style Transfer of Arbitrary Style**] [[Paper]](https://arxiv.org/pdf/1612.04337.pdf) *(NIPSW 2016)*
 
 :sparkle: **Code:**
 
@@ -165,14 +151,6 @@
 *   [Torch-based](https://github.com/leongatys/NeuralImageSynthesis)
 
 :white_check_mark: [**Towards Deep Style Transfer: A Content-Aware Perspective**] [[Paper]](http://www.bmva.org/bmvc/2016/papers/paper008/paper008.pdf)  *(BMVC 2016)*
-
-:white_check_mark: [**Neural Doodle_Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artwork**] [[Paper]](https://arxiv.org/pdf/1603.01768.pdf) 
-
-:white_check_mark: [**Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artwork**] [[Paper]](https://arxiv.org/pdf/1603.01768.pdf) 
-
-:sparkle: **Code:**
-
-*   [Torch-based](https://github.com/alexjc/neural-doodle)
 
 :white_check_mark: [**The Contextual Loss for Image Transformation with Non-Aligned Data**] [[Paper]](https://arxiv.org/pdf/1803.02077)   *(ECCV 2018)* 
 
