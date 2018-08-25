@@ -37,8 +37,6 @@
 
 *   [MXNet-based](https://github.com/lyttonhao/Neural-Style-MMD)
 
-:white_check_mark: [**Stable and Controllable Neural Texture Synthesis and Style Transfer Using Histogram Losses**] [[Paper]](https://arxiv.org/pdf/1701.08893.pdf)
-
 
 ###  1.2. Non-parametric "Slow" Neural Methods with MRFs
 
