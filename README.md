@@ -158,15 +158,11 @@
 
 ## Improvements and Extensions
 
-:white_check_mark: [**Preserving Color in Neural Artistic Style Transfer**] [[Paper]](https://arxiv.org/pdf/1606.05897.pdf) 
-
 :white_check_mark: [**Controlling Perceptual Factors in Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1611.07865.pdf)  *(CVPR 2017)* 
 
 :sparkle: **Code:**
 
 *   [Torch-based](https://github.com/leongatys/NeuralImageSynthesis)
-
-:white_check_mark: [**Content-Aware Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1601.04568.pdf) 
 
 :white_check_mark: [**Towards Deep Style Transfer: A Content-Aware Perspective**] [[Paper]](http://www.bmva.org/bmvc/2016/papers/paper008/paper008.pdf)  *(BMVC 2016)*
 
@@ -190,12 +186,6 @@
 
 *   [Torch-based](https://github.com/DmitryUlyanov/texture_nets)
 
-:white_check_mark: [**Instance Normalization：The Missing Ingredient for Fast Stylization**] [[Paper]](https://arxiv.org/pdf/1607.08022.pdf) 
-
-:sparkle: **Code:**
-
-*   [Torch-based](https://github.com/DmitryUlyanov/texture_nets)
-
 :white_check_mark: [**A Style-Aware Content Loss for Real-time HD Style Transfer**] [[Paper]](https://arxiv.org/pdf/1807.10201)  *(ECCV 2018)* 
 
 :white_check_mark: [**Multimodal Transfer: A Hierarchical Deep Convolutional Neural Network for Fast Artistic Style Transfer**] [[Paper]](https://arxiv.org/pdf/1612.01895.pdf)  *(CVPR 2017)* 
@@ -209,9 +199,6 @@
 :sparkle: **Code:**
 
 *   [TensorFlow-based](https://github.com/LouieYang/stroke-controllable-fast-style-transfer)
-
-
-:white_check_mark: [**Depth-Preserving Style Transfer**] [[Paper]](https://github.com/xiumingzhang/depth-preserving-neural-style-transfer/blob/master/report/egpaper_final.pdf) 
 
 :sparkle: **Code:**
 
@@ -234,8 +221,6 @@
 :sparkle: **Code:**
 
 *   [Torch-based](https://github.com/manuelruder/artistic-videos)
-
-:white_check_mark: [**DeepMovie: Using Optical Flow and Deep Neural Networks to Stylize Movies**] [[Paper]](https://arxiv.org/pdf/1605.08153.pdf) 
 
 :white_check_mark: [**Characterizing and Improving Stability in Neural Style Transfer**] [[Paper]](https://arxiv.org/pdf/1705.02092.pdf))  *(ICCV 2017)*
 
@@ -276,8 +261,6 @@
 
 :white_check_mark:   [**Neural Font Style Transfer**] [[Paper]](http://ieeexplore.ieee.org/document/8270274/)  *(ICDAR 2017)* 
 
-:white_check_mark:   [**Rewrite: Neural Style Transfer For Chinese Fonts**] [[Project]](https://github.com/kaonashi-tyc/Rewrite)
-
 :white_check_mark:   [**Separating Style and Content for Generalized Style Transfer**] [[Paper]](https://arxiv.org/pdf/1711.06454.pdf)  *(CVPR 2018)*  
 
 :white_check_mark: [**Visual Attribute Transfer through Deep Image Analogy**] [[Paper]](https://arxiv.org/pdf/1705.01088.pdf)  *(SIGGRAPH 2017)*
@@ -287,10 +270,6 @@
 *   [Caffe-based](https://github.com/msracver/Deep-Image-Analogy)
 
 :white_check_mark: [**Fashion Style Generator**] [[Paper]](https://www.ijcai.org/proceedings/2017/0520.pdf)  *(IJCAI 2017)*
-
-:white_check_mark: [**Deep Painterly Harmonization**] [[Paper]](https://arxiv.org/abs/1804.03189)
-
-:sparkle: **Code:**
 
 *   [Torch-based](https://github.com/luanfujun/deep-painterly-harmonization)
 
