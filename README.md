@@ -133,8 +133,6 @@
 
 *   [Caffe-based](https://github.com/FalongShen/styletransfer)
 
-:white_check_mark: [**ZM-Net: Real-time Zero-shot Image Manipulation Network**] [[Paper]](https://arxiv.org/pdf/1703.07255.pdf)
-
 :white_check_mark: [**Avatar-Net: Multi-Scale Zero-Shot Style Transfer by Feature Decoration**] [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0137.pdf)  *(CVPR 2018)*
 
 :sparkle: **Code:**
